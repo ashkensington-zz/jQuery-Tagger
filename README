@@ -1,0 +1,24 @@
+tagger.js
+
+Description: A simple tagging feature.
+
+Author: Ashley Charlton
+
+Website: http://ashleycharlton.com
+
+Contact: ashcharlton@gmail.com
+
+Version: 0.9
+
+What is jQuery-Tagger?
+
+jQuery-Tagger is a simple to use tag creation feature using a text box.
+
+How to use it?
+
+Be sure to include the Jquery library, as well as the EMSwitchBox javascript, and css file in your tag. Make sure you load Jquery before you load jQuery-Tagger.
+Now you must initialize the plugin. 
+
+Add a html element you wish to contain the tagger. Then initialise with $('#ID_OF_ELEMENT').tagger();
+
+
